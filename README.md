@@ -2,7 +2,8 @@
 
 
 **Прототип игры**
-ТЗ можно увидеть перейдя на ссылки https://docs.google.com/document/d/1E-xkbaWz3Z-kq6P-1ARbHlTAndGJ6dZfmbHVN8RADgo/edit?usp=sharing.
+ТЗ можно увидеть перейдя на ссылки https://docs.google.com/document/d/1E-xkbaWz3Z-kq6P-1ARbHlTAndGJ6dZfmbHVN8RADgo/edit?usp=sharing,
+(В этом репозиторий предоставляется только С++ файлы без каких либо других).
 
 
 *Игра задумается как выживание на местности с элементами торговли, крафта, охоты и развития поселение далеко далеко в глубой глуши сибирского леса в славянской стилистики.*
